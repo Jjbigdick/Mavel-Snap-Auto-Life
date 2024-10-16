@@ -16,4 +16,7 @@ Current flaws:
 Pro:
 - flexiable mode your own deck
 - robust game play and card recoginitions
+- set random waiting timer between matches
+- change different decks and strategies - incoming
+  
 
